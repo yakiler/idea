@@ -1,0 +1,2 @@
+1. Chrome devTools console 面板 对象属性：a.自身属性为正常颜色，b.原型上的属性为灰色，c.getter 属性为 (...) 
+            -- https://stackoverflow.com/questions/29821843/what-is-the-significance-of-faded-properties-when-using-console-dir-in-chrome-de
